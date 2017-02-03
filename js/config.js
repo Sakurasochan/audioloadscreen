@@ -25,7 +25,7 @@ Config.serverImage = "infamous.png";
 // only use .ogg files!
 // put songs on the songs folder, then add them here
 Config.playlist = [
-	{url: "1.ogg", name: "Топ сикрит:D"},
+	{url: "1.ogg", name: "Top secret))"},
 	{url: "12th_Planet_amp_Mayhem_Ft.ogg", name: "12th Planet & Mayhem Ft. PennyBirdRabbit - Whoops "},
 	{url: "Avenged_Sevenfold-_This_Means_War.ogg", name: "Avenged_Sevenfold -This_Means_War "},
 	{url: "Fall_Out_Boy_-_Centuries.ogg", name: "Fall Out Boy - Centuries "},
